@@ -1,2 +1,2 @@
 # MeetupApp
-Created with CodeSandbox
+MeetUp reactjs app from Max's course complete NextJS with additional modifications 
